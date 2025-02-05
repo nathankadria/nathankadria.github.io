@@ -24,13 +24,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Greensight",
       "position": "Mechanical Engineering Co-op",
       "url": "https://greensightag.com",
       "startDate": "2024-01-01",
       "endDate": "2024-09-01",
       "summary": "During my time at Greensight I quickly took ownership of the mechanical side of the project I worked on, WeatherHive. I was fully responsible for designing and building 6 'Hives' in a 3 month timeframe - a drone silo capable of storing, charging, launching, and loading 10 weather drones, all autonomously.",
       "highlights": ["Mechanical Design", "Project Management", "Design for Manufacturing"]
+    },
+    {
+      "name": "Orbis",
+      "position": "Mechanical Engineering Co-op",
+      "url": "https://www.orbiselectric.com/",
+      "startDate": "2022-12-01",
+      "endDate": "2023-07-01",
+      "summary": "At Orbis I worked as one of two full time mechanical engineers at the company, so I was given lots of responsibility from the start. I designed novel in-wheel electric motor/gearbox assemblies under tight deadlines.",
+      "highlights": ["Automotive Design", "Design for Manufacturing", "FEA"]
     }
   ],
   "volunteer": [
