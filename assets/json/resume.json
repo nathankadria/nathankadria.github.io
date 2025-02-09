@@ -114,15 +114,31 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Motorcyles",
+      "summary": "Motorcycles I've owned",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "2003 Honda CBR600RR - 'Zuko'",
+        "1986 Kawasaki Concours 1000 - 'Toph'",
+        "2004 Ninja 250R - 'Azula' (regretfully traded)"
+      ]
+    },
+    {
+      "name": "Cars",
+      "summary": "Cars I've owned",
+      "keywords": [
+        "1999 Mazda Miata - 'Bailey Junior' (sold)",
+        "1999 Mazda Miata - 'Bailey' (sold)",
+        "1990 Mazda Miata - 'Lucy' (sold)",
+        "1998 BMW 328i [black] (sold)",
+        "1998 BMW 328i [white] (sold)",
+        "2010 Mazda 5 [manual minivan!] - 'Baby' (junked)"
+      ]
+    },
+    {
+      "name": "3D Printers",
+      "keywords": [
+        "Voron V0.2",
+        "Bambu P1S"
       ]
     }
   ],
