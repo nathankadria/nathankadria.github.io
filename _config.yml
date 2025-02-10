@@ -169,10 +169,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: 
-  - _pages
-  - _scripts
-  - assets/pdf/portfolio.pdf
+include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
