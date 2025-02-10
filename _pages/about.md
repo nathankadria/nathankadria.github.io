@@ -32,5 +32,5 @@ I have two years of experience in Mechanical Engineering roles, most of which ha
 I graduated from Northeastern University with a major in Mechanical Engineering and a minor in Computer Science, and I’m looking for full time work. I'm especially interested in automotive, automation, aerospace, machining, motorsports, and additive manufacturing fields. I’m open to work anywhere that has interesting problems to solve, as long as they’re not defense related.
 
 Please get in touch if you'd like to connect! I'd love to discuss my projects, hobbies, career, or whatever else with you.
-Use the links below to shoot me an email or connect on linkedin!
+Use the links below to shoot me an email, connect on linkedin, or see my portfolio in PDF form!
 
