@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "resume",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Click the PDF icon to open a condensed resume",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
@@ -431,6 +431,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-greensight",
+          title: 'Greensight',
+          description: "see my work on the WeatherHive project at Greensight",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/greensight_project/";
             },},{
         id: 'social-email',
         title: 'email',
