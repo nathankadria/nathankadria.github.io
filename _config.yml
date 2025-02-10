@@ -48,7 +48,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -195,7 +195,6 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _scripts/search.liquid.js
   - _pages/blog.md
 keep_files:
   - CNAME
