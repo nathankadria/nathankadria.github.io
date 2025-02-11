@@ -393,7 +393,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-greensight",
           title: 'Greensight',
-          description: "see my work on the WeatherHive project at Greensight",
+          description: "Jan-Sept 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/greensight/";
             },},{
