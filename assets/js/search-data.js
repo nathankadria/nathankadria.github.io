@@ -435,7 +435,7 @@ ninja.data = [{
           title: 'Greensight',
           description: "see my work on the WeatherHive project at Greensight",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/greensight_project/";
+              window.location.href = "/projects/greensight/";
             },},{
         id: 'social-email',
         title: 'email',
