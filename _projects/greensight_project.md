@@ -2,7 +2,7 @@
 layout: page
 title: Greensight
 description: see my work on the WeatherHive project at Greensight
-img: Greensight/HiveAtDemoLeft.jpg
+img: assets/img/Greensight/HiveAtDemoLeft.jpg
 importance: 1
 category: work
 ---
