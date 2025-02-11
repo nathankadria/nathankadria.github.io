@@ -15,12 +15,12 @@ Subsystems were tested individually to catch problems before we started full sys
 
 ## WeatherHive
 
-Requirements:
+###### Requirements:
 - Store 10 weather drones
 - Autonomously launch, load, and charge drones
 - Keep sensitive electronics with significant heat generation isolated from the elements
-- Lightweight, rugged, and compact
-My contributions:
+- Lightweight, rugged, and compact  
+###### My contributions:
 - Solely responsible for mechanical design and testing
 - Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives
 - Coordinated with electrical, software, and drone-side mechanical team to ensure smooth integration
@@ -45,7 +45,9 @@ My contributions:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+       <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S1a7ZZE8yOE?si=WGr9Ax1-GxvhZHpt" allowfullscreen></iframe>
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
