@@ -20,7 +20,6 @@ Subsystems were tested individually to catch problems before we started full sys
         - Autonomously launch, load, and charge drones
         - Keep sensitive electronics with significant heat generation isolated from the elements
         - Lightweight, rugged, and compact  
-          
         My contributions:
         - Solely responsible for mechanical design and build of Hives
         - Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives
@@ -34,16 +33,18 @@ Subsystems were tested individually to catch problems before we started full sys
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        Requirements:
-            ● Store 10 weather drones
-            ● Autonomously launch, load, and charge drones
-            ● Keep sensitive electronics with significant heat generation isolated from the elements
-            ● Lightweight, rugged, and compact
-        My contributions:
-            ● Solely responsible for mechanical design and build of Hives
-            ● Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives
-            ● Coordinated with electrical, software, and drone-side mechanical team to ensure smooth integration
-            ● Traveled to demonstrate Hives to customers
+        <p> 
+        Requirements:<b>
+            ● Store 10 weather drones<b>
+            ● Autonomously launch, load, and charge drones<b>
+            ● Keep sensitive electronics with significant heat generation isolated from the elements<b>
+            ● Lightweight, rugged, and compact<b>
+        My contributions:<b>
+            ● Solely responsible for mechanical design and build of Hives<b>
+            ● Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives<b>
+            ● Coordinated with electrical, software, and drone-side mechanical team to ensure smooth integration<b>
+            ● Traveled to demonstrate Hives to customers<b>
+        </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
