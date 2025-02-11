@@ -451,8 +451,8 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/nathankadria", "_blank");
         },
       },{
-        id: 'social-pdf',
-        title: 'Pdf',
+        id: 'social-pdf_portfolio',
+        title: 'Pdf_portfolio',
         section: 'Socials',
         handler: () => {
           window.open("", "_blank");
