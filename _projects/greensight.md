@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Greensight
-description: see my work on the WeatherHive project at Greensight
+description: Jan-Sept 2024
 img: assets/img/Greensight/HiveAtDemoLeft.jpg
 importance: 1
 category: work
@@ -45,14 +45,93 @@ Subsystems were tested individually to catch problems before we started full sys
 - Fatigue and wear testing done on charging spines and tin contacts
 
 <div class="row">
-    <div class="col-sm mt-36 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
        <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4O0Wk7AeFi8?si=bXOy-hxiWUxjfM6B" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="col-sm mt-6 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Greensight/AlignmentASSY.png" title="Alignment Assembly" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Left - fatigue/wear testing charging contacts | Right - half of alignment geometry
+</div>
+
+#### Subsystem: Drone Loading
+- Drones land on ramp guided by vision system on Hive
+- Ramp funnels drones into hive and starts to fold props
+- Internal geometry passively aligns props and drone
+- Zero additional actuators required with passive loading design
+- Elevator actuator is reused and a passive ratchet mechanism stops drones from falling into loading zone
+- Lots of iterations were tested to perfect the loading mechanism
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+       <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S1a7ZZE8yOE?si=KltshceoosIBTmsW" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Greensight/DroneLoading.png" title="Drone Loading" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Greensight/HiveAtDemoLeft.png" title="Hive with Ramp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left - loading testing | Middle - passive loading mechanism | Right - enhanced hive with landing ramp
+</div>
+
+#### Subsystem: Electronics "Dry Box"
+- COTS IP65 aluminum enclosure was used for all sensitive electronics
+- Waterproof bulkhead connectors used
+- Heat sources were mated directly to the aluminum enclosure with thermal paste
+- Heat sink on outside of enclosure was actively cooled with ducting and server fan
+- Hand calculations and manufacturer specs were used to guide duct design
+- High power jetson orin nano was used without overheating issues
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Greensight/HiveAtDemoBackRightCloseUp.jpg" title="Dry box in Hive" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Dry box in hive
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Greensight/DryBoxDucts.png" title="Dry box ducts" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Cooling ducts for dry box
+        </div>
+    </div>
+</div>
+
+#### What I learned from WeatherHive
+
+###### CAD
+- Created and maintained a large assembly with multiple subassemblies
+- Transferred SolidWorks experience to OnShape
+
+###### Project management / collaboration
+- Established clear plan and timeline for part design and procurement of 6 Hives
+- Communicated with electrical, software, and drone-side hardware team to ensure easy integration
+- Dummy hives built for other teams to test with helped with parallel development
+- Subsystem testing conducted before final build
+
+###### Design and iteration
+- Fail early and often - design flaws caught earlier were much easier to address than those caught later in the process
+- Ironing out issues with manufacturability and assembly helped reduce part procurement / assembly time when making multiple hives
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Greensight/HiveAtDemoDuskFar.jpg" title="Hive with mast" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Greensight/6Hives.jpg" title="6 Hives" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left - enhanced hive at dusk | Right - 6 Hives in various stages of assembly
 </div>
 
 
