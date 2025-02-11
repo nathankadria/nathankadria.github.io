@@ -15,16 +15,17 @@ Subsystems were tested individually to catch problems before we started full sys
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-       Requirements:
-            ● Store 10 weather drones
-            ● Autonomously launch, load, and charge drones
-            ● Keep sensitive electronics with significant heat generation isolated from the elements
-            ● Lightweight, rugged, and compact
+        Requirements:
+        - Store 10 weather drones
+        - Autonomously launch, load, and charge drones
+        - Keep sensitive electronics with significant heat generation isolated from the elements
+        - Lightweight, rugged, and compact  
+          
         My contributions:
-            ● Solely responsible for mechanical design and build of Hives
-            ● Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives
-            ● Coordinated with electrical, software, and drone-side mechanical team to ensure smooth integration
-            ● Traveled to demonstrate Hives to customers
+        - Solely responsible for mechanical design and build of Hives
+        - Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives
+        - Coordinated with electrical, software, and drone-side mechanical team to ensure smooth integration
+        - Traveled to demonstrate Hives to customers
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets\img\Greensight\6Hives.jpg" title="6 Hives" class="img-fluid rounded z-depth-1" %}
