@@ -12,6 +12,7 @@ At Orbis, I was one of two full time mechanical engineers. I had to hit the grou
 I learned a lot at Orbis - one of the skills I was able to improve on the most was designing for manufacturing. I was in constant communication with Scott, the machinist and a co-founder of the company - I frequently asked him questions about how to make a part more machinable.
 
 
+
 ## Planetary Gearset Retrofit
 
 #### Requirements
@@ -121,8 +122,8 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
 - Power dense axial flux motor used
 - Lightweight brake bell, external rotor/internal caliper setup
 - FEA used to optimized brake bell, reducing unsprung and rotating mass
-  
-  
+
+
 
 ## External Brake Rotor/Bell
 - Designed and worked closely with machinist to make “bell” to mount external brake rotor
@@ -147,6 +148,37 @@ more valuable
         {% include figure.liquid path="assets/img/Orbis/GreeningPostTest.png" title="Rotor post-test" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Brake rotor/bell pre and post test
+        </div>
+    </div>
+</div>
+
+
+
+## Promaster Van Hybrid Conversion Battery Mounting
+
+#### Requirements
+- Mount to Promaster box truck with minimal modification
+- Less than 4 hour assembly time
+- Easily installed and removed by non-specialized workers
+- Corrosion resistant
+
+#### Design
+- Bolted to truck with 24 nut-serts in 6 locations - holes are already present, no modification needed
+- Complete assembly and installation instructions made
+- Corrosive resistant materials used for water resistant electronics enclosure and splash guard
+- Sheet metal construction allows for easy prototyping and ramp up of production
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/PromasterBatteryMounting.webp" title="Promaster battery mounting" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Battery mounting shown without mounting locations
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/PromasterBatteryMountingBelow.webp" title="Promaster battery mounting below" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Battery mounting shown with mounting locations from below
         </div>
     </div>
 </div>
