@@ -396,6 +396,11 @@ ninja.data = [{
           description: "Jan-Sept 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/greensight/";
+            },},{id: "projects-orbis",
+          title: 'Orbis',
+          description: "Dec 2023 - Jul 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/orbis/";
             },},{
         id: 'social-email',
         title: 'email',
