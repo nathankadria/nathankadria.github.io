@@ -49,14 +49,18 @@ Subsystems were tested individually to catch problems before we started full sys
        <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4O0Wk7AeFi8?si=bXOy-hxiWUxjfM6B" allowfullscreen></iframe>
         </div>
+        <div class="caption">
+            Fatigue/wear testing charging contacts
+        </div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Greensight/AlignmentASSY.png" title="Alignment Assembly" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Half of alignment geometry
+        </div>
     </div>
 </div>
-<div class="caption">
-    Left - fatigue/wear testing charging contacts | Right - half of alignment geometry
-</div>
+
 
 #### Subsystem: Drone Loading
 - Drones land on ramp guided by vision system on Hive
@@ -71,16 +75,22 @@ Subsystems were tested individually to catch problems before we started full sys
        <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S1a7ZZE8yOE?si=KltshceoosIBTmsW" allowfullscreen></iframe>
         </div>
+        <div class="caption">
+            Loading testing
+        </div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Greensight/DroneLoading.png" title="Drone Loading" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Passive loading mechanism
+        </div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Greensight/HiveAtDemoLeft.png" title="Hive with Ramp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Enhanced hive with landing ramp
+        </div>
     </div>
-</div>
-<div class="caption">
-    Left - loading testing | Middle - passive loading mechanism | Right - enhanced hive with landing ramp
 </div>
 
 #### Subsystem: Electronics "Dry Box"
@@ -125,14 +135,14 @@ Subsystems were tested individually to catch problems before we started full sys
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Greensight/HiveAtDemoDuskFar.jpg" title="Hive with mast" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Enhanced hive at dusk
+        </div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Greensight/6Hives.jpg" title="6 Hives" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            6 Hives in various stages of assembly
+        </div>
     </div>
 </div>
-<div class="caption">
-    Left - enhanced hive at dusk | Right - 6 Hives in various stages of assembly
-</div>
-
-
-
