@@ -73,6 +73,8 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
     </div>
 </div>
 
+
+
 ## Gearbox, Motor, Brake, and Upright Assembly
 
 ##### Requirements
@@ -119,3 +121,32 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
 - Power dense axial flux motor used
 - Lightweight brake bell, external rotor/internal caliper setup
 - FEA used to optimized brake bell, reducing unsprung and rotating mass
+  
+  
+
+## External Brake Rotor/Bell
+- Designed and worked closely with machinist to make “bell” to mount external brake rotor
+- Mustang GT rotor lightweighted and adapted to function as an external rotor
+- Tested at Greening to validate performance vs. original rotor
+- Underperformed compared to original rotor, but was significantly lighter
+
+##### Conclusions
+- Promising results, but an equal mass comparison would be
+more valuable
+- Brake rotor cooling optimization needed
+
+<div class="row">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/GreeningBrakeSetup.png" title="Greening test setup" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Brake test setup at Greening
+        </div>
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/GreeningPreTest.png" title="Rotor pre-test" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Orbis/GreeningPostTest.png" title="Rotor post-test" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Brake rotor/bell pre and post test
+        </div>
+    </div>
+</div>
