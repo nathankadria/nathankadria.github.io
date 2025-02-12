@@ -145,11 +145,25 @@
   "projects": [
     {
       "name": "WeatherHive",
-      "summary": "",
-      "highlights": ["", ""],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "summary": "Drone silo – the “Hive” – capable of storing, deploying, retrieving, and charging a swarm of 10 small weather drones.",
+      "highlights": ["Redesigned the Hive from the ground up with reliability, manufacturability, assembly, and an IP55 rating in mind.",
+      "Developed passive drone retrieval system – only one stepper required for landing, loading, and launching.",
+      "Leveraged use of sheet metal and 3D printed parts to prototype quickly and scale production.",
+      "Conducted fatigue testing on custom drone charging contacts.",
+      "Developed a waterproof electronics box with external active cooling."],
+      "startDate": "2024-01-01",
+      "endDate": "2018-09-01",
+      "url": "https://www.nathankadria.com/projects/greensight"
+    },
+    {
+      "name": "Integrated Gearbox, Motor, and Upright Assembly",
+      "highlights": ["Retrofitted existing assemblies to fit on McLaren chassis with planetary gearsets from automatic transmissions.",
+      "Updated assembly’s design – NVH results approved by a major auto OEM from Wolfsburg in an in-person visit.",
+      "Engineered complete redesign of assembly to accept next generation motors, gearsets and integrate McLaren upright.",
+      "Specced bearings, gearset, seals, to ensure gearbox longevity, desired NVH, and minimize stack height."],
+      "startDate": "2022-12-01",
+      "endDate": "2023-07-01",
+      "url": "https://www.nathankadria.com/projects/orbis"
     }
   ]
 }
