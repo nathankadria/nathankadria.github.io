@@ -391,6 +391,11 @@ ninja.data = [{
           description: "July - December 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone/";
+            },},{id: "projects-draper",
+          title: 'Draper',
+          description: "Summer 2018",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/draper/";
             },},{id: "projects-greensight",
           title: 'Greensight',
           description: "January - September 2024",
