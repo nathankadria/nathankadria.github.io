@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wire EDM Bandsaw
-description: Dec 2023 - Jul 2023
+description: July - December 2024
 img: assets/img/Capstone/GroupPic.jpg
 importance: 2
 category: work
@@ -45,7 +45,7 @@ Before my final semester at Northeastern, I had been getting a bit obsessed with
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="hhttps://www.youtube.com/embed/F96JPgQnWrg?si=0DWk4l375OWbe68q" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F96JPgQnWrg?si=0DWk4l375OWbe68q" allowfullscreen></iframe>
         </div>
         <div class="caption">
             Wire tensioning test
@@ -59,108 +59,34 @@ Before my final semester at Northeastern, I had been getting a bit obsessed with
     </div>
 </div>
 
-
-
-
-
-#### Design Process and Results
-- New planetary gearset designed with helical gears
-- Quotes showed that custom ring gears were too expensive and had long lead times
-- Needed to pivot - a gearset from a junkyard automatic transmission was harvested and retrofitted to the assembly
-- Testing with sound level meter proved significant NVH reduction
-- Engineer sent from a major automaker from Wolfsburg approved the proof of concept’s NVH, resulting in a contract with the automaker
+#### Subsystem: End Effectors
+- End effectors were suspended on cantilevered beams to reach through 18” diameter build plate
+- Water blocks mount diamond wire guides, nozzles, pulleys, and NPT fittings
+- CFD used to determine correct nozzle orifice size, hand calculations used to determine necessary post-pump pressure
+- End effector designed to be extremely compact in order to fit around workpiece in COTS stainless steel tank, significantly reducing cost
+- Machinability of water block was crucial, as it was done in-house
+- More bracing on end effectors was added to deal with inconsistent wire tension
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mO29dz6uq9s?si=jJons5ZZu0bz3p0Z" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9p8HkfyGvnU?si=ImPcTZkd4Q4B8_Mf" allowfullscreen></iframe>
         </div>
         <div class="caption">
-            NVH testing with retrofitted gearset
+            Nozzle/water block pressure test
         </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-         {% include figure.liquid path="assets/img/Orbis/RetrofitGearsetCADExploded.webp" title="Retrofit CAD exploded view" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+         {% include figure.liquid path="assets/img/Capstone/WaterBlockPart.png" title="Water block" class="img-fluid rounded z-depth-1" %}
          <div class="caption">
-            Retrofit CAD exploded view
+            Water block - my favorite part on the machine
         </div>
     </div>
 </div>
 
-
-
-## Gearbox, Motor, Brake, and Upright Assembly
-
-##### Requirements
-- Redesign previous assembly, keeping successful design elements and addressing failures
-- Small form factor/stack height
-- Lightweight
-
-##### My contribtions
-- Redesigned gearset stack - bearings, oiling, gearset selection
-- Designed and optimized brake bell (red) with FEA
-- Designed integrated upright (orange)
-- Redesigned frustum that contains gearset (green)
-- Work with machinist to make a printed model
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Orbis/WheelAssemblyCAD.webp" title="Assembly CAD" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Assembly CAD
-        </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Orbis/WheelAssemblyCADCutaway.webp" title="Assembly CAD section view" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Assembly CAD section view
-        </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Orbis/BellFEA.png" title="Bell FEA" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Bell FEA
-        </div>
-    </div>
-</div>
-
-#### Design Process
-
-##### Address failures
-- Previous bearing solution caused gears to take load from wheels and fail - redesigned to isolate gears from external forces
-- New sealing solution designed to stop leaking
-
-##### Reduce assembly’s stack height and weight
-- McLaren MP4-12C upright integrated into motor mount
-- Power dense axial flux motor used
-- Lightweight brake bell, external rotor/internal caliper setup
-- FEA used to optimized brake bell, reducing unsprung and rotating mass
-  
-  
-
-## External Brake Rotor/Bell
-- Designed and worked closely with machinist to make “bell” to mount external brake rotor
-- Mustang GT rotor lightweighted and adapted to function as an external rotor
-- Tested at Greening to validate performance vs. original rotor
-- Underperformed compared to original rotor, but was significantly lighter
-
-##### Conclusions
-- Promising results, but an equal mass comparison would be
-more valuable
-- Brake rotor cooling optimization needed
-
-<div class="row">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Orbis/GreeningBrakeSetup.png" title="Greening test setup" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Brake test setup at Greening
-        </div>
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Orbis/GreeningPreTest.png" title="Rotor pre-test" class="img-fluid rounded z-depth-1" %}
-        {% include figure.liquid path="assets/img/Orbis/GreeningPostTest.png" title="Rotor post-test" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Brake rotor/bell pre and post test
-        </div>
-    </div>
-</div>
+#### What I Learned
+- On large projects, splitting up the system and doing subsystem testing is critical
+- Test early and often
+- There is always a way - even if it's me buying a 3D printer with personal funds and running it around the clock to make stand-ins for machined parts
+- Good project management means communicating failures early and delegating work, even if I’d prefer to do it myself
+- Any engineering assumption made will be tested and could cause failures

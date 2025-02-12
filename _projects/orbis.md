@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orbis
-description: Dec 2023 - Jul 2023
+description: December - July 2023
 img: assets/img/Orbis/SittingInMcLaren.jpg
 importance: 1
 category: work
@@ -14,13 +14,13 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
 
 ## Planetary Gearset Retrofit
 
-##### Requirements
+#### Requirements
 - Reduce operating NVH
 - Extreme timeline
 - New gearset must fit within existing assembly and use existing splines
 - Cost effective
 
-##### My contributions
+#### My contributions
 - Solely responsible for retrofit design and management
 - Sourced gearset and worked directly
 - with our machinist to make parts
@@ -49,7 +49,7 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
 </div>
 
 
-#### Design Process and Results
+### Design Process and Results
 - New planetary gearset designed with helical gears
 - Quotes showed that custom ring gears were too expensive and had long lead times
 - Needed to pivot - a gearset from a junkyard automatic transmission was harvested and retrofitted to the assembly
@@ -77,12 +77,12 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
 
 ## Gearbox, Motor, Brake, and Upright Assembly
 
-##### Requirements
+#### Requirements
 - Redesign previous assembly, keeping successful design elements and addressing failures
 - Small form factor/stack height
 - Lightweight
 
-##### My contribtions
+#### My contribtions
 - Redesigned gearset stack - bearings, oiling, gearset selection
 - Designed and optimized brake bell (red) with FEA
 - Designed integrated upright (orange)
@@ -110,13 +110,13 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
     </div>
 </div>
 
-#### Design Process
+### Design Process
 
-##### Address failures
+#### Address failures
 - Previous bearing solution caused gears to take load from wheels and fail - redesigned to isolate gears from external forces
 - New sealing solution designed to stop leaking
 
-##### Reduce assembly’s stack height and weight
+#### Reduce assembly’s stack height and weight
 - McLaren MP4-12C upright integrated into motor mount
 - Power dense axial flux motor used
 - Lightweight brake bell, external rotor/internal caliper setup
@@ -130,7 +130,7 @@ I learned a lot at Orbis - one of the skills I was able to improve on the most w
 - Tested at Greening to validate performance vs. original rotor
 - Underperformed compared to original rotor, but was significantly lighter
 
-##### Conclusions
+#### Conclusions
 - Promising results, but an equal mass comparison would be
 more valuable
 - Brake rotor cooling optimization needed

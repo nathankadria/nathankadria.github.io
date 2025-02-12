@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Greensight
-description: Jan-Sept 2024
+description: January - September 2024
 img: assets/img/Greensight/HiveAtDemoLeft.jpg
 importance: 1
 category: work
@@ -15,13 +15,13 @@ Subsystems were tested individually to catch problems before we started full sys
 
 ## WeatherHive
 
-##### Requirements:
+#### Requirements
 - Store 10 weather drones
 - Autonomously launch, load, and charge drones
 - Keep sensitive electronics with significant heat generation isolated from the elements
 - Lightweight, rugged, and compact
 
-##### My contributions:
+#### My contributions
 - Solely responsible for mechanical design and testing
 - Managed part sourcing and manufacturing under extreme timeline - 3 months to design and build 6 Hives
 - Coordinated with electrical, software, and drone-side mechanical team to ensure smooth integration
@@ -36,7 +36,7 @@ Subsystems were tested individually to catch problems before we started full sys
     Testing the "Enhanced Hive" with autonomous landing and loading capabilities the night before demo day.
 </div>
 
-#### Subsystem: Drone Alignment and Charging
+### Subsystem: Drone Alignment and Charging
 - Stores and charges 10 drones
 - Minimally invasive on drone shape
 - Low part count - only 5 unique parts
@@ -62,7 +62,7 @@ Subsystems were tested individually to catch problems before we started full sys
 </div>
 
 
-#### Subsystem: Drone Loading
+### Subsystem: Drone Loading
 - Drones land on ramp guided by vision system on Hive
 - Ramp funnels drones into hive and starts to fold props
 - Internal geometry passively aligns props and drone
@@ -93,7 +93,7 @@ Subsystems were tested individually to catch problems before we started full sys
     </div>
 </div>
 
-#### Subsystem: Electronics "Dry Box"
+### Subsystem: Electronics "Dry Box"
 - COTS IP65 aluminum enclosure was used for all sensitive electronics
 - Waterproof bulkhead connectors used
 - Heat sources were mated directly to the aluminum enclosure with thermal paste
@@ -116,19 +116,19 @@ Subsystems were tested individually to catch problems before we started full sys
     </div>
 </div>
 
-#### What I learned from WeatherHive
+### What I learned from WeatherHive
 
-###### CAD
+#### CAD
 - Created and maintained a large assembly with multiple subassemblies
 - Transferred SolidWorks experience to OnShape
 
-###### Project management / collaboration
+#### Project management / collaboration
 - Established clear plan and timeline for part design and procurement of 6 Hives
 - Communicated with electrical, software, and drone-side hardware team to ensure easy integration
 - Dummy hives built for other teams to test with helped with parallel development
 - Subsystem testing conducted before final build
 
-###### Design and iteration
+#### Design and iteration
 - Fail early and often - design flaws caught earlier were much easier to address than those caught later in the process
 - Ironing out issues with manufacturability and assembly helped reduce part procurement / assembly time when making multiple hives
 
