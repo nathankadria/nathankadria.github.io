@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nathan Kadria",
     "label": "Mechanical Engineer",
-    "image": "",
+    "image": "assets/img/me.jpg",
     "email": "nathankadria@gmail.com",
     "phone": "(774) 303-0696",
     "url": "https://nathankadria.com",
@@ -59,7 +59,7 @@
   ],
   "certificates": [
     {
-      "name": "Certified SolidWorks Professional",
+      "name": "Certified SolidWorks Professional (CSWP)",
       "issuer": "SolidWorks"
     }
   ],
