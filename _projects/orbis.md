@@ -182,3 +182,41 @@ more valuable
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryBox1.webp" title="Controller box drawing page 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryBox2.webp" title="Controller box drawing page 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryBox3.webp" title="Controller box drawing page 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Controller box assembly drawing
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryMounting1.webp" title="Battery mounting installation drawing page 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryMounting2.webp" title="Battery mounting installation drawing page 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryMounting3.webp" title="Battery mounting installation drawing page 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryMounting4.webp" title="Battery mounting installation drawing page 4" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Orbis/BatteryMounting5.webp" title="Battery mounting installation drawing page 5" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Battery mounting installation drawing
+</div>
