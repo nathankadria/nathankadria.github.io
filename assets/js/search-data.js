@@ -391,6 +391,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-wire-edm-bandsaw",
+          title: 'Wire EDM Bandsaw',
+          description: "Dec 2023 - Jul 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/capstone/";
             },},{id: "projects-greensight",
           title: 'Greensight',
           description: "Jan-Sept 2024",
