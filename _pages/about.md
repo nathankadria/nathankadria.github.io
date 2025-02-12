@@ -27,7 +27,7 @@ latest_posts:
 ---
 I’ve been an engineer my whole life. As early as I can remember I’ve been taking things apart and trying to learn how everything works. When I was young, I was taking apart RC cars, now I enjoy working on the full sized ones - I love cars, motorcycles, and everything in between. I’m also obsessed with machines (from 3D printers to lathes to wire EDM machines), engines (from carbureted four-stroke bike engines to closed-loop rocket engines), and many many more niche marvels of engineering. I'm sure you understand.
 
-I have two years of experience in Mechanical Engineering roles, most of which have been fast-paced prototyping environments. I’m a quick learner, and my motto is that there’s always a way (and I'll find it). I’ve worked at <a href='#'>Greensight</a>, <a href='#'>Orbis</a>, <a href='#'>Instron</a>, and <a href='#'>Draper</a>. 
+I have two years of experience in Mechanical Engineering roles, most of which have been fast-paced prototyping environments. I’m a quick learner, and my motto is that there’s always a way (and I'll find it). I’ve worked at <a href='https://www.nathankadria.com/projects/greensight/'>Greensight</a>, <a href='https://www.nathankadria.com/projects/orbis/'>Orbis</a>, <a href='https://www.nathankadria.com/projects/instron/'>Instron</a>, and <a href='https://www.nathankadria.com/projects/draper/'>Draper</a>. 
 
 I graduated from Northeastern University with a major in Mechanical Engineering and a minor in Computer Science, and I’m looking for full time work. I'm especially interested in automotive, automation, aerospace, machining, motorsports, and additive manufacturing fields. I’m open to work anywhere that has interesting problems to solve, as long as they’re not defense related.
 
