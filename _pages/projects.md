@@ -2,13 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: UNDER CONSTRUCTION
+description: a non-exhaustive ever-growing list
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-UNDER CONSTRUCTION - please see <a href="nathankadria.com/assets/pdf/portfolio.pdf"></a> to see my projects
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

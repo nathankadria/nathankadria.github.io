@@ -2,7 +2,7 @@
 layout: page
 title: Instron
 description: July - December 2021
-img: assets/img/Capstone/GroupPic.jpg
+img: assets/img/Instron/SingleColumnMockup.webp
 importance: 2
 category: work
 ---
