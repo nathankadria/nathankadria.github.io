@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cars
-description: All the cars I've owned and what I did with them
+description: All the cars I've owned and what I've done with them
 img: assets/img/Cars/KidNathanInJeep.jpg
 importance: 3
 category: fun
