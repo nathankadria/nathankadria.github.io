@@ -2,7 +2,7 @@
 layout: page
 title: Cars
 description: All the cars I've owned and what I did with them
-img: assets/img/KidNathanInJeep.jpg
+img: assets/img/cars/KidNathanInJeep.jpg
 importance: 3
 category: fun
 ---
@@ -13,7 +13,7 @@ I've loved cars, motorcycles, and really anything with an engine for about as lo
 
 ## 1999 Mazda Miata (Emerald Green)
 AKA Bailey Junior or "BJ" (He/Him)
-BUY: \$6500 in Dec 2022 | SELL: \$8000 in Sept 2023
+BUY: 6500 in Dec 2022 | SELL: 8000 in Sept 2023
 I bought this car in California when I moved to work at <a href='https://www.nathankadria.com/projects/orbis'>Orbis</a>. I already missed my last miata, so I found a car that was the exact same! The only differences were that it had less rust, better paint, and a hardtop.
 
 I had some amazing drives in this car, and some less fun ones as well. About a week after I bought it, I went off the road on Highway 1. Wet curvy roads, old tires, and an underdeveloped pre-frontal cortex meant I out of skill quite quickly. Thankfully, the car was alright besides the lip and a few scratches on the bumper. All in all, I paid a relatively cheap price for what could have been a very expensive lesson. I put some new tires on (which were already on order at the time of the accident) and started driving with a new respect for the beautiful California roads.
@@ -33,7 +33,7 @@ I did a bunch of maintenance on BJ in the short time I had it. I shipped it back
 
 ## 1990 Mazda Miata
 AKA Lucy (She/her)
-BUY: Traded a hardtop (\$1700) for it | SELL: \$3000
+BUY: Traded a hardtop (1700) for it | SELL: 3000
 
 This was a bit of an impulse trade for me. I traded a hardtop I had bought previously for the entire car, but the car came quite damaged and incomplete. The previous owner had been rear ended, and hastily harvested many parts of it to use in his other car. I hammered out the damage to the rear, found replacement parts, and fixed the damage the previous owner had done when removing parts. There were a lot of bolts suspiciously missing from pretty important systems (like coilovers not even bolted in), so I went through the entire car pretty thorougly to make sure it was road worthy. I never actually registered this one, it was more of a fun project to flip. I was able to sell for a decent price-the market for NA Miatas was way too high.
 
@@ -58,7 +58,7 @@ This was a bit of an impulse trade for me. I traded a hardtop I had bought previ
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Draper/LucyOnTrailer.jpg" title="Lucy on trailer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Cars/LucyOnTrailer.jpg" title="Lucy on trailer" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             How she arrived
         </div>
@@ -67,7 +67,7 @@ This was a bit of an impulse trade for me. I traded a hardtop I had bought previ
 
 ## 1999 Mazda Miata (Emerald Green)
 AKA Bailey (Any pronouns)
-BUY: \$3700 | SELL: \$2300 (got fleeced when leaving for CA)
+BUY: 3700 | SELL: 2300 (got fleeced when leaving for CA)
 
 I was still quite naive when I bought this car, and didn't check for rust in the common Miata spots. Turns out, it was extremely rusty! That didn't stop me from having so much fun with this car, and honestly just encouraged me to drive it as hard as I wanted. It was a beater, and I beat on it. Some of my favorite memories with this car (and in any car) happened just before the winter. I got a new set of wheels with old tires on them, thrashed the car with my friends as hard as I could in an empty lot, put snow tires on it, and took it out drifting every time it snowed.
 
@@ -91,14 +91,14 @@ I learned a lot of lessons with this car, made plenty of mistakes, and overall h
 </div>
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=gG0D9L-AiJw" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gG0D9L-AiJw?si=s-xbJz13liROq0Pm" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=3Kk5aKdpKGA" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3Kk5aKdpKGA?si=PeIJwj-ltIrSvKoa" allowfullscreen></iframe>
         </div>
     </div> 
 </div>
@@ -120,7 +120,7 @@ I learned a lot of lessons with this car, made plenty of mistakes, and overall h
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Cars/Welded Pinion.jpg" title="Welded pinion" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Cars/WeldedPinion.jpg" title="Welded pinion" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Was it worth it? Kind of
         </div>
@@ -143,11 +143,11 @@ I learned a lot of lessons with this car, made plenty of mistakes, and overall h
 </div>
 
 ## 1998 BMW 328I (Black)
-BUY: \$1900 | SELL: \$2500
+BUY: 1900 | SELL: 2500
 
-This was another impulse buy. I went out to see this car with my brother because it was pretty close and fairly cheap. It was very rusty, pretty rough all around, so I lowballed him. To my surprise, he took the deal, and I ended up selling it the next day for \$600 more. I got lucky, but also I had been spending some significant time reviewing the E36 market on Facebook Marketplace and had a pretty good feeling for the value of the cars.
+This was another impulse buy. I went out to see this car with my brother because it was pretty close and fairly cheap. It was very rusty, pretty rough all around, so I lowballed him. To my surprise, he took the deal, and I ended up selling it the next day for 600 more. I got lucky, but also I had been spending some significant time reviewing the E36 market on Facebook Marketplace and had a pretty good feeling for the value of the cars.
 
 ## 1998 BMW 328I (WHITE)
-BUY: \$900 | SELL: \$1300
+BUY: 900 | SELL: 1300
 
-This was the first car I ever bought, and the price reflects it. It wouldn't start, so I towed it home. I ended up replacing the starter, finding out it had tons of rust, and then selling it and just barely breaking even. I ended up becoming friends with someone at Northeastern whose friend bought the car from me, and he told me that the guy often hotboxed the car, ended up drifting the car into a curb, and sold it for \$2k-that's how crazy the E36 market got. At least he was having fun with it!
+This was the first car I ever bought, and the price reflects it. It wouldn't start, so I towed it home. I ended up replacing the starter, finding out it had tons of rust, and then selling it and just barely breaking even. I ended up becoming friends with someone at Northeastern whose friend bought the car from me, and he told me that the guy often hotboxed the car, ended up drifting the car into a curb, and sold it for 2k-that's how crazy the E36 market got. At least he was having fun with it!
