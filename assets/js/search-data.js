@@ -411,6 +411,11 @@ ninja.data = [{
           description: "July - December 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/instron/";
+            },},{id: "projects-cars",
+          title: 'Cars',
+          description: "All the motorcycles I&#39;ve owned and what I&#39;ve done with them",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/motorcycles/";
             },},{id: "projects-orbis",
           title: 'Orbis',
           description: "December - July 2023",
