@@ -391,6 +391,11 @@ ninja.data = [{
           description: "July - December 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone/";
+            },},{id: "projects-cars",
+          title: 'Cars',
+          description: "All the cars I&#39;ve owned and what I did with them",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cars/";
             },},{id: "projects-draper",
           title: 'Draper',
           description: "Summer 2018",
@@ -411,6 +416,11 @@ ninja.data = [{
           description: "December - July 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/orbis/";
+            },},{id: "projects-saturn-v-2l",
+          title: 'Saturn V-2L',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/saturnv-2l/";
             },},{
         id: 'social-email',
         title: 'email',
