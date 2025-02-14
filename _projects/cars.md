@@ -129,7 +129,7 @@ I learned a lot of lessons with this car, made plenty of mistakes, and overall h
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Cars/GroceryGetter.jpg" title=Grocery getter" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Cars/GroceryGetter.jpg" title="Grocery getter" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Miata Is Always The Answer
         </div>
