@@ -2,7 +2,7 @@
 layout: page
 title: Cars
 description: All the cars I've owned and what I did with them
-img: assets\img\Cars\KidNathanInJeep.jpg
+img: assets/img/Cars/KidNathanInJeep.jpg
 importance: 3
 category: fun
 ---
@@ -85,40 +85,7 @@ I did a bunch of maintenance on BJ in the short time I had it. I shipped it back
 - Cleaned injectors
 - Motor mounts
 
-## 1990 Mazda Miata
 AKA Lucy (She/her)
-
-BUY: Traded a hardtop (1700) for it | SELL: 3000
-
-This was a bit of an impulse trade for me. I traded a hardtop I had bought previously for the entire car, but the car came quite damaged and incomplete. The previous owner had been rear ended, and hastily harvested many parts of it to use in his other car. I hammered out the damage to the rear, found replacement parts, and fixed the damage the previous owner had done when removing parts. There were a lot of bolts suspiciously missing from pretty important systems (like coilovers not even bolted in), so I went through the entire car pretty thorougly to make sure it was road worthy. I never actually registered this one, it was more of a fun project to flip. I was able to sell for a decent price-the market for NA Miatas was way too high.
-
-#### Repairs
-- Pads & rotors
-- Brake lines (cut by PO)
-- Differential & axles (harvested by PO)
-- Wheel bearing
-- Heater core bypass (heater core tubes cut by PO)
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Cars/LucyTilted.jpg" title="Lucy tilted" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Working on brake lines
-        </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Cars/LucyRearEnd.jpg" title="Lucy rear end" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Damaged Area
-        </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Cars/LucyOnTrailer.jpg" title="Lucy on trailer" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            How she arrived
-        </div>
-    </div>
-</div>
 
 ## 1999 Mazda Miata (Emerald Green)
 AKA Bailey (Any pronouns)
@@ -198,6 +165,41 @@ I learned a lot of lessons with this car, made plenty of mistakes, and overall h
     </div>
 </div>
 
+## 1990 Mazda Miata
+AKA Lucy (She/her)
+
+BUY: Traded a hardtop (1700) for it | SELL: 3000
+
+This was a bit of an impulse trade for me. I traded a hardtop I had bought previously for the entire car, but the car came quite damaged and incomplete. The previous owner had been rear ended, and hastily harvested many parts of it to use in his other car. I hammered out the damage to the rear, found replacement parts, and fixed the damage the previous owner had done when removing parts. There were a lot of bolts suspiciously missing from pretty important systems (like coilovers not even bolted in), so I went through the entire car pretty thorougly to make sure it was road worthy. I never actually registered this one, it was more of a fun project to flip. I was able to sell for a decent price-the market for NA Miatas was way too high.
+
+#### Repairs
+- Pads & rotors
+- Brake lines (cut by PO)
+- Differential & axles (harvested by PO)
+- Wheel bearing
+- Heater core bypass (heater core tubes cut by PO)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/LucyTilted.jpg" title="Lucy tilted" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Working on brake lines
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/LucyRearEnd.jpg" title="Lucy rear end" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Damaged Area
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/LucyOnTrailer.jpg" title="Lucy on trailer" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            How she arrived
+        </div>
+    </div>
+</div>
+
 ## 1998 BMW 328I (Black)
 BUY: 1900 | SELL: 2500
 
@@ -207,3 +209,8 @@ This was another impulse buy. I went out to see this car with my brother because
 BUY: 900 | SELL: 1300
 
 This was the first car I ever bought, and the price reflects it. It wouldn't start, so I towed it home. I ended up replacing the starter, finding out it had tons of rust, and then selling it and just barely breaking even. I ended up becoming friends with someone at Northeastern whose friend bought the car from me, and he told me that the guy often hotboxed the car, ended up drifting the car into a curb, and sold it for 2k-that's how crazy the E36 market got. At least he was having fun with it!
+
+## 2010 Mazda 5 Minivan (Manual!)
+Gift from parents
+
+I had plenty of firsts in this car. First time driving stick on public roads, first car, first time driving friends around. I made so many good memories, and this car was a big reason for why I became a car enthusiast in the first place. It might just be a minivan, but it handled pretty nicely, and of course, it was stick shift. That's all you really need to have fun. Of course, I ended up burning up the clutch. I replaced the clutch with some help from my dad. It was the biggest job either of us had ever done on a car, and it gave me the confidence to work on cars in the future.
