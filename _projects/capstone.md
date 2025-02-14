@@ -2,7 +2,7 @@
 layout: page
 title: Wire EDM Bandsaw
 description: July - December 2024
-img: assets/img/Capstone/GroupPic.jpg
+img: assets/img/Capstone/GroupPic.jpeg
 importance: 2
 category: work
 ---
