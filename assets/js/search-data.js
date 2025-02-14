@@ -17,11 +17,11 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "CV",
+          title: "cv",
           description: "Click the PDF icon to open a one page resume",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/CV/";
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -393,7 +393,7 @@ ninja.data = [{
               window.location.href = "/projects/capstone/";
             },},{id: "projects-cars",
           title: 'Cars',
-          description: "All the cars I&#39;ve owned and what I did with them",
+          description: "All the cars I&#39;ve owned and what I&#39;ve done with them",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cars/";
             },},{id: "projects-draper",
