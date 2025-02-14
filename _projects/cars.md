@@ -85,8 +85,6 @@ I did a bunch of maintenance on BJ in the short time I had it. I shipped it back
 - Cleaned injectors
 - Motor mounts
 
-AKA Lucy (She/her)
-
 ## 1999 Mazda Miata (Emerald Green)
 AKA Bailey (Any pronouns)
 
