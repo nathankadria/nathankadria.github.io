@@ -77,13 +77,13 @@ Right now, Zuko is in my friend Philip's basement for the winter. I'm doing some
 - Safety wire on oil filter, oil fill cap
 
 <div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Motorcycles/Zuko/UnderTheKnife.jpg" title="Zuko under the knife" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             If you're cold, your bike is cold too. Bring it inside
         </div>
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Motorcycles/Zuko/Cams.jpg" title="Cylinder head" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Checking valve clearances
