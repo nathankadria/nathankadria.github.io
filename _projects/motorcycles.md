@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Cars
+title: Motorcycles
 description: All the motorcycles I've owned and what I've done with them
-img: assets/img/Cars/KidNathanInJeep.jpg
-importance: 2
+img: assets/img/Motorcycles/Zuko/LeanedOverFront.jpg
+importance: 3
 category: fun
 ---
 

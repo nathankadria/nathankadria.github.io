@@ -2,7 +2,7 @@
 layout: page
 title: Instron
 description: July - December 2021
-img: assets/img/Instron/SingleColumnMockup.webp
+img: assets/img/Instron/SingleColumnMockup.png
 importance: 2
 category: work
 ---
@@ -20,7 +20,7 @@ My first co-op was at Instron's automation department. I focused on developing m
 - System functionality animated to demonstrate to customer
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
        <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/p3--434v6UA?si=eKzrQa5nKygQV5lN" allowfullscreen></iframe>
         </div>
@@ -28,8 +28,8 @@ My first co-op was at Instron's automation department. I focused on developing m
             Animation for customer
         </div>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-         {% include figure.liquid path="assets/img/Instron/SingleColumnMockup.webp" title="Automation system CAD" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+         {% include figure.liquid path="assets/img/Instron/SingleColumnMockup.png" title="Automation system CAD" class="img-fluid rounded z-depth-1" %}
          <div class="caption">
             Automation system CAD
         </div>
