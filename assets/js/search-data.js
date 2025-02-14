@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-resume",
-          title: "resume",
-          description: "UNDER CONSTRUCTION - click the PDF icon to open a condensed resume",
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Click the PDF icon to open a one page resume",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resume/";
+            window.location.href = "/CV/";
           },
         },{id: "post-a-post-with-image-galleries",
       
