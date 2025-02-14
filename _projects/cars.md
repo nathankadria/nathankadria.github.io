@@ -7,8 +7,6 @@ importance: 3
 category: fun
 ---
 
-UNDER CONSTRUCTION
-
 I've loved cars, motorcycles, and really anything with an engine for about as long as I can remember. When I started studying Mechanical Engineering, my appreciation of cars only grew-I believe cars and motorsports respresent the epitome of engineering and manufacturing. I'm mostly into late '90s / early 2000s Japanese cars and some bimmers from the same era. I currently don't own a car as I'm living in Boston and my motorcycles are just more practical for the city. All of my cars (including the minivan!) were stick shift besides the white bimmer. Scroll down to see what cars I've had in the past!
 
 <div class="row">
@@ -30,6 +28,17 @@ I bought this car in California when I moved to work at <a href='https://www.nat
 I had some amazing drives in this car, and some less fun ones as well. About a week after I bought it, I went off the road on Highway 1. Wet curvy roads, old tires, and an underdeveloped pre-frontal cortex meant I out of skill quite quickly. Thankfully, the car was alright besides the lip and a few scratches on the bumper. All in all, I paid a relatively cheap price for what could have been a very expensive lesson. I put some new tires on (which were already on order at the time of the accident) and started driving with a new respect for the beautiful California roads.
 
 I did a bunch of maintenance on BJ in the short time I had it. I shipped it back to MA (Worcester) from CA because I thought I was gonna own this car for a long time. Soon, I realized that I was moving back to Boston and it started to make a whole lot less sense to own a car. I got the car detailed, took some nice pictures, and sold it to a nice guy who graduated as a MechE from Northeastern! I do miss this car, but I'm sure I'll get another 1999 Emerald Green Mazda eventually.
+
+#### Maintenance
+- Tires
+- Pads, rotors & fluid
+- Radiator & thermostat
+- Oil
+- Valve cover gasket
+- Master & slave cylinder, braided clutch line
+- Ignition coils
+- Cleaned injectors
+- Motor mounts
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -81,18 +90,6 @@ I did a bunch of maintenance on BJ in the short time I had it. I shipped it back
 <div class="caption">
     Some nice pics of BJ
 </div>
-
-
-#### Maintenance
-- Tires
-- Pads, rotors & fluid
-- Radiator & thermostat
-- Oil
-- Valve cover gasket
-- Master & slave cylinder, braided clutch line
-- Ignition coils
-- Cleaned injectors
-- Motor mounts
 
 ## 1999 Mazda Miata (Emerald Green)
 AKA Bailey (Any pronouns)
@@ -220,4 +217,4 @@ This was the first car I ever bought, and the price reflects it. It wouldn't sta
 ## 2010 Mazda 5 Minivan (Manual!)
 Gift from parents
 
-I had plenty of firsts in this car. First time driving stick on public roads, first car, first time driving friends around. I made so many good memories, and this car was a big reason for why I became a car enthusiast in the first place. It might just be a minivan, but it handled pretty nicely, and of course, it was stick shift. That's all you really need to have fun. Of course, I ended up burning up the clutch. I replaced the clutch with some help from my dad. It was the biggest job either of us had ever done on a car, and it gave me the confidence to work on cars in the future.
+I had plenty of firsts in this car. First time driving stick on public roads, first car, first time driving friends around. I made so many good memories, and this car was a big reason for why I became a car enthusiast in the first place. It might just be a minivan, but it handled pretty nicely, and of course, it was stick shift. That's all you really need to have fun. Of course, I ended up burning up the clutch. I replaced the clutch with some help from my dad. It was the biggest job either of us had ever done on a car, and it gave me the confidence to work on cars in the future. She took us well over 200,000 miles, but unfortunately had to be junked due to rust and a clutch line we couldn't find parts for.
