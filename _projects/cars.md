@@ -11,6 +11,15 @@ UNDER CONSTRUCTION
 
 I've loved cars, motorcycles, and really anything with an engine for about as long as I can remember. When I started studying Mechanical Engineering, my appreciation of cars only grew-I believe cars and motorsports respresent the epitome of engineering and manufacturing. I'm mostly into late '90s / early 2000s Japanese cars and some bimmers from the same era. I currently don't own a car as I'm living in Boston and my motorcycles are just more practical for the city. All of my cars (including the minivan!) were stick shift besides the white bimmer. Scroll down to see what cars I've had in the past!
 
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/KidNathanInJeep.jpg" title="Mini Nathan in a mini jeep" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Nobody's ever made a Jeep look as cool as I did
+</div>
+
 ## 1999 Mazda Miata (Emerald Green)
 AKA Bailey Junior or "BJ" (He/Him)
 
