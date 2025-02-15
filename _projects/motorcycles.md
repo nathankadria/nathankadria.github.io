@@ -142,3 +142,40 @@ I bought this kind of on a whim. Old sport touring bikes are so cheap, and I jus
         </div>
     </div>
 </div>
+
+## 2004 Ninja 250R
+AKA Azula
+
+BUY: 800 SELL: Traded for a pile of grom parts
+
+Although the title says 2004, don't be fooled. I cobbled together 2 Ninja 250s and parts from many more in order to get one complete bike. This was my first bike, and I wanted to start cheap and easy. I bought 1.5 bikes and a big bag of parts from a guy named Rick for 800 bones and figured I should be able to make a bike out of it. Turns out, the more complete bike had a bad title, and the parts bike's title was perfect! I moved everything over to the parts bike chassis, cleaned the carbs, and got it running in about a month. Some new tires, brakes, and levers later and Azula was roadworthy! This was my first motorcycle, and I took training seriously. I'd often go to an empty lot and just practice figure 8s, circles, braking, and swerving for hours. The training paid off! I have not dropped my bike once, and I'm already 3 seasons in. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Motorcycles/Azula/FirstBike.jpg" title="Complete bike with incomplete title" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Complete bike with incomplete title
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Motorcycles/Azula/PartsBike.jpg" title="Parts Bike" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Parts bike
+        </div>
+    </div>
+</div>
+
+While I was parking the bike in Boston, it got towed, then I got it back, then it got stolen and then towed again, all in the same week. Thankfully, The thief just took it for a joyride and dumped it half a mile away. I put a new battery in, stuck a screwdriver in the ignition to turn it on, paid the tow company, and brought her back to Worcester to wait out the winter. In the spring, all I had to do was replace the ignition (the same key worked on the parts bike ignition for some reason), replace the battery, and she was back. Unfortunately, I then made the extremely regretful decision of trading this bike for a pile of grom parts. This is my single biggest regret of my Facebook Marketplace career, and I will never forgive myself for it. If you see this bike out in the wild, I will pay you a finders fee even for the chance to buy it back.
+
+#### Maintenance
+- Tires
+- Brake pads
+- Tires
+- Chain and sprockets
+- Wiring harness (only a 2 hour job to replace the harness on a bike, blew my mind)
+- Air filters
+- Carburetor rebuild
+- Stitches on the plastics
+- Ignition
+- Battery
+- Brake and clutch levers
