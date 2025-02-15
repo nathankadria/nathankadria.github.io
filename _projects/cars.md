@@ -12,7 +12,7 @@ UNDER CONSTRUCTION
 I've loved cars, motorcycles, and really anything with an engine for about as long as I can remember. When I started studying Mechanical Engineering, my appreciation of cars only grew-I believe cars and motorsports respresent the epitome of engineering and manufacturing. I'm mostly into late '90s / early 2000s Japanese cars and some bimmers from the same era. I currently don't own a car as I'm living in Boston and my motorcycles are just more practical for the city. All of my cars (including the minivan!) were stick shift besides the white bimmer. Scroll down to see what cars I've had in the past!
 
 ## 1999 Mazda Miata (Emerald Green)
-AKA Bailey Junior or "BJ"
+AKA Bailey Junior or "BJ" (He/Him)
 BUY: \$6500 in Dec 2022 | SELL: \$8000 in Sept 2023
 I bought this car in California when I moved to work at <a href='https://www.nathankadria.com/projects/orbis'>Orbis</a>. I already missed my last miata, so I found a car that was the exact same! The only differences were that it had less rust, better paint, and a hardtop.
 
@@ -32,7 +32,7 @@ I did a bunch of maintenance on BJ in the short time I had it. I shipped it back
 - Motor mounts
 
 ## 1990 Mazda Miata
-AKA Lucy
+AKA Lucy (She/her)
 BUY: Traded a hardtop (\$1700) for it | SELL: \$3000
 
 This was a bit of an impulse trade for me. I traded a hardtop I had bought previously for the entire car, but the car came quite damaged and incomplete. The previous owner had been rear ended, and hastily harvested many parts of it to use in his other car. I hammered out the damage to the rear, found replacement parts, and fixed the damage the previous owner had done when removing parts. There were a lot of bolts suspiciously missing from pretty important systems (like coilovers not even bolted in), so I went through the entire car pretty thorougly to make sure it was road worthy. I never actually registered this one, it was more of a fun project to flip. I was able to sell for a decent price-the market for NA Miatas was way too high.
@@ -44,8 +44,29 @@ This was a bit of an impulse trade for me. I traded a hardtop I had bought previ
 - Wheel bearing
 - Heater core bypass (heater core tubes cut by PO)
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/LucyTilted.jpg" title="Lucy tilted" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Working on brake lines
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/LucyRearEnd.jpg" title="Lucy rear end" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Damaged Area
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Draper/LucyOnTrailer.jpg" title="Lucy on trailer" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            How she arrived
+        </div>
+    </div>
+</div>
+
 ## 1999 Mazda Miata (Emerald Green)
-AKA Bailey 
+AKA Bailey (Any pronouns)
 BUY: \$3700 | SELL: \$2300 (got fleeced when leaving for CA)
 
 I was still quite naive when I bought this car, and didn't check for rust in the common Miata spots. Turns out, it was extremely rusty! That didn't stop me from having so much fun with this car, and honestly just encouraged me to drive it as hard as I wanted. It was a beater, and I beat on it. Some of my favorite memories with this car (and in any car) happened just before the winter. I got a new set of wheels with old tires on them, thrashed the car with my friends as hard as I could in an empty lot, put snow tires on it, and took it out drifting every time it snowed.
@@ -53,6 +74,73 @@ I was still quite naive when I bought this car, and didn't check for rust in the
 I did a bit more than the minimum maintenance (rust made any little job horrible), and even did a mod to avoid some more annoying maintenance. I properly depowered the steering rack, which involved taking the rack apart, cutting out a seal, and welding the pinion to the steering shaft spline to reduce steering play. This mod made U-turns hell, but definitely fixed my power steering leak! It also gave the car great steering feel, which I actually kind of missed when I got my next NB chassis (BJ).
 
 I learned a lot of lessons with this car, made plenty of mistakes, and overall had such a great time. I'd highly recommend a beater Miata to anybody who wants to enjoy cars and not spend a crazy amount of money. Eventually, I couldn't ignore the rust, and I was moving to California. I sold the car to some kid who ended up getting a great deal, even with the rust. I hope someone out there is still enjoying this car.
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/FilmFlowers.jpg" title="Miata In Flowers" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            On film
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/BaileyAtBeach.jpg" title="Miata at the beach" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            At the Beach
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+       <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=gG0D9L-AiJw" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+       <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=3Kk5aKdpKGA" allowfullscreen></iframe>
+        </div>
+    </div> 
+</div>
+<div class="caption">
+    Messing around in the Miata
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/BaileyBeautifulInterior.jpg" title="Bailey's beautiful interior" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Beautiful on the inside...
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/Rust.jpg" title="Rust" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Not so beautiful on the outside.
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/Welded Pinion.jpg" title="Welded pinion" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Was it worth it? Kind of
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/GroceryGetter.jpg" title=Grocery getter" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Miata Is Always The Answer
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Cars/MarioPassenger.jpg" title="Cat passenger" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Even for cats
+        </div>
+    </div>
+</div>
 
 ## 1998 BMW 328I (Black)
 BUY: \$1900 | SELL: \$2500
