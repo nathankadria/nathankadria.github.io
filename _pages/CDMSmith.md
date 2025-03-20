@@ -8,7 +8,7 @@ nav: false
 Dear Hiring Manager,
 
 Over the years my **passion for robotics** has grown from being in **FLL and FIRST** teams when I was younger, to being obsessed with the complex automation systems use in modern automobile factories, to **designing automation systems from the ground up at <a href='https://www.nathankadria.com/projects/greensight/'>Greensight</a> and <a href='https://www.nathankadria.com/projects/instron/'>Instron</a>.** Besides my professional career, my education has also been focused on robotics, as I **designed a precise <a href='https://www.nathankadria.com/projects/capstone/'>Wire EDM machine</a>** for my engineering capstone project. 
->With my experience leading the design and production of automation systems at industry-leading companies and fast-paced startups and
+>With my experience leading the design and production of automation systems at industry-leading companies and fast-paced startups, and
 >passion for everything robotics and automation,
 >I’m confident I would be a great fit as an **Automation Engineer at CDM Smith.**
 
