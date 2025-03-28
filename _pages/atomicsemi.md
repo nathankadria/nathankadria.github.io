@@ -21,4 +21,5 @@ I am excited by the possibility of working with Atomic Semi to push the boundari
 Thank you for your time and consideration.
 
 Best,
+
 Nathan Kadria
